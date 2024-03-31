@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Investigação
-build_property.ProjectDir = D:\C#\repos\Investigação\
+build_property.ProjectDir = F:\C#\repos\Investigação\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
