@@ -1,0 +1,14 @@
+D:\C#\repos\Investigação\bin\Debug\netcoreapp3.1\Investigação.exe
+D:\C#\repos\Investigação\bin\Debug\netcoreapp3.1\Investigação.deps.json
+D:\C#\repos\Investigação\bin\Debug\netcoreapp3.1\Investigação.runtimeconfig.json
+D:\C#\repos\Investigação\bin\Debug\netcoreapp3.1\Investigação.runtimeconfig.dev.json
+D:\C#\repos\Investigação\bin\Debug\netcoreapp3.1\Investigação.dll
+D:\C#\repos\Investigação\bin\Debug\netcoreapp3.1\Investigação.pdb
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.csproj.AssemblyReference.cache
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.AssemblyInfoInputs.cache
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.AssemblyInfo.cs
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.csproj.CoreCompileInputs.cache
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.dll
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.pdb
+D:\C#\repos\Investigação\obj\Debug\netcoreapp3.1\Investigação.genruntimeconfig.cache
